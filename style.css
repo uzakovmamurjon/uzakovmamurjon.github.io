@@ -1,0 +1,70 @@
+#Suicide{
+
+	font-family: MV Boli;
+	color:rgb(102, 126, 78);
+}
+#Superman{
+
+	font-family: MV Boli;
+	color:rgb(102, 126, 78);
+}
+#Star{
+
+	font-family: MV Boli;
+	color:rgb(102, 126, 78);
+}
+#Jigsaw{
+	
+	font-family: MV Boli;
+	color:rgb(102, 126, 78);
+}
+#Genre{
+
+	font-family: Colonna MT;
+	color: rgb(255, 0, 0);
+}
+#Genre1{
+
+	font-family: Colonna MT;
+	color: rgb(255, 0, 0);
+}#Genre2{
+
+	font-family: Colonna MT;
+	color: rgb(240, 240, 240);
+}#Genre3{
+
+	font-family: Colonna MT;
+	color: rgb(255, 255, 255);
+}
+#Name{
+
+	font-family: MV Boli;
+	color: #787878;
+}
+#Name2{
+
+	font-family: MV Boli;
+	color: #787878;
+}
+#Movie{
+
+	font-family: MV Boli;
+	color: rgb(102, 126, 78);
+}
+#Home{
+
+	font-family: Mv Boli;
+	color: rgb(191, 208, 35);
+}
+a:link{
+	color:rgb(255,255,255); 
+}
+a:visited{
+	color:#FFFFFF;
+}
+a:hover{
+	color:#000000;
+}
+a:active{
+	color:#FFFFFF;
+}
